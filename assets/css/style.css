@@ -57,13 +57,11 @@ body {
 .wrapper {
     min-height: 100%;
     overflow: hidden;
-    display: flex;
-    flex-direction: column;
-    flex: 1 1 auto;
 }
 
 .content {
     display: flex;
+    flex: 1 1 auto;
 }
 
 .sidebar__inner {
