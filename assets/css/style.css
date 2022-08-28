@@ -59,9 +59,13 @@ body {
     overflow: hidden;
 }
 
+.wrapper__inner {
+    display: flex;
+    flex: 1 1 auto;   
+}
+
 .content {
     display: flex;
-    flex: 1 1 auto;
 }
 
 .sidebar__inner {
